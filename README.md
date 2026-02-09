@@ -42,7 +42,7 @@ Navigate to the project folder:
 
 Bash
 
-cd usa-gdp-visualization
+cd uproject-folder name
 Open the project: Simply open index.html in your favorite web browser, or use a local server like Live Server in VS Code.
 
 🧠 Technical Implementation Notes
@@ -56,6 +56,7 @@ Data Parsing: Used new Date(item[0]) to convert string dates into JavaScript Dat
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🤝 Contact
-Your Name – 
+Email – antwiyaa17@gmail.com
 
-Project Link: https://github.com/your-username/usa-gdp-visualization
+Project Link: https://github.com/yaakydd/yaakydd.github.io
+
